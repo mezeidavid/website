@@ -1,0 +1,37 @@
+body{
+    background-color: #e6e3e3
+}
+
+.social-links{
+    fill: white
+}
+
+.evad-jelolo {
+    font-size: 24px;
+    text-align: center;
+    border: 2px solid #0d6efd;
+    border-radius: 25px;
+    background-color: #a99e9e;
+    padding: 2px;
+    font-weight: bold
+}
+
+.teszt-link {
+    font-size: 24px;
+}
+
+
+.teszt-intro{
+    padding: 25px;
+    font-size: 30;
+    font-weight: bold;
+}
+
+.teszt-outro{
+    font-size: 30;
+    font-weight: bold;
+}
+
+.letoltheto {
+    font-size: 30
+}
